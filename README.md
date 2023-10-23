@@ -34,6 +34,6 @@ JavaScript and Jquery: For enhancing interactivity, features to enhance the mous
 
 ### Devlopers 🤝
 * Aishwarya Gaddam
-* Mohan Sai Ravipati
+* Mohan Sai Prakash Ravipati
 * Sahana Surapureddy
 
