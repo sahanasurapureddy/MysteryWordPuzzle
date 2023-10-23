@@ -64,5 +64,4 @@ function MysterySearchController(gameId, listId, solveId, newGameId, instruction
 		setUpWordSearch();
 
 	})
-
 }
