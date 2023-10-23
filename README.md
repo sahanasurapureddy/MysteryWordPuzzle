@@ -3,7 +3,7 @@
 ## Welcome to Mystery Word Puzzle -  Explore the Word Puzzle and identify the Mystery words based on different themes
 
 ### Overview 📖
-The Mystery puzzle is hosted on a live server. You can play the game by visiting the following URL: 
+The Mystery puzzle is hosted on a live server. You can play the game by visiting the following URL: [Mystery Word Puzzle](https://sahanasurapureddy.github.io/MysteryWordPuzzle/)
 
 Implementing puzzle that can incorporate multiple themes and generate word puzzle based on related words to that particular theme was a challenging task for us. But we were able to implement it and have mouse animations succesfully work as well. We had thought of having a animation popup generate, when the user solves the whole puzzle but we were able to implement only a alert pop up on completing the challenge. The animation popup was hindering our functionality due to which we didn't implement on our code which we are hoping to  incorporate in our future enhancement on this puzzle board. 
 
