@@ -4,7 +4,7 @@
 function MysterySearchController(gameId, listId, solveId, newGameId, instructionsId, themeId) {
 
 	var searchTypes = {
-		"Clemson Places!": [["Tillman Hall", "Sikes", "barre","freeman"],
+		"Clemson Places!": [["Tillman Hall", "Sikes", "barre","mc adams"],
 			["bracket","business school","long hall","freeman hall"],
 			["martin","lehotsky","coopers library","redfern"],
 			["starbucks","55 exchange","fikes","hendrix"]],
