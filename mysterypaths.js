@@ -32,4 +32,3 @@ var bounds = {
 	[paths.priDiagBack]: (x, y, s) => (x >= 0) && (y >= 0),
 	[paths.secDiagBack]: (x, y, s) => (x >= 0) && (y < s)
 };
-
