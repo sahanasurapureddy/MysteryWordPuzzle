@@ -4,26 +4,32 @@
 function MysterySearchController(gameId, listId, solveId, newGameId, instructionsId, themeId) {
 
 	var searchTypes = {
+
 		"Clemson Places!": [["Tillman Hall", "Sikes", "barre","mc adams"],
 			["bracket","business school","long hall","freeman hall"],
 			["martin","lehotsky","coopers library","redfern"],
 			["starbucks","55 exchange","fikes","hendrix"]],
+
 		"Brands!": [["Coach", "BMW", "Michael Kors", "Nike"],
 			["Crocs", "Zara", "Apple", "Microsoft"],
 			["Ferrari", "Hoka", "Google", "Redbull"],
 			["Puma", "Audi", "Kellogg", "Burger king","adidas"]],
+
 		"States!": [["Kentucky", "Michigan", "Georgia", "Colorado"],
 			["Florida", "Hawaii", "Illinois", "Kansas"],
 			["Maryland", "Missouri", "Montana", "Arizona"],
 			["California", "Ohio", "Texas", "Virginia"]],
+
 		"Food!": [["Sandwich", "Burger", "Pizza", "Coffee"],
 			["Icecream", "Baked Potato", "Springroll", "Hashbrowns"],
 			["FrenchFries", "Grilled Cheese", "Apple Pie", "Nachos"],
 			["Burritos", "Lasagna", "Pasta", "Cupcake"]],
-		"Olympic Games!": [["Skating","Fencing","Badminton","Boxing"],
-			["Softball","Archery","Soccer","Tennis"],
-			["Surfing","Shooting","Wrestling","Swimming"],
-			["Traithlon","Handball","Judo","Karate"]]
+
+		"Olympic Games!": [["Skating", "Fencing", "Badminton", "Boxing"],
+			["Softball", "Archery", "Soccer","Tennis"],
+			["Surfing", "Shooting", "Wrestling", "Swimming"],
+			["Traithlon", "Handball", "Judo", "Karate"]]
+
 	};
 	var game;
 	var view;
