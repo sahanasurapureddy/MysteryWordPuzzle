@@ -19,7 +19,11 @@ function MysterySearchController(gameId, listId, solveId, newGameId, instruction
 		"Food": [["Sandwich", "Burger", "Pizza", "Coffee"],
 			["Icecream", "Baked Potato", "Springroll", "Hashbrowns"],
 			["FrenchFries", "Grilled Cheese", "Apple Pie", "Nachos"],
-			["Burritos", "Lasagna", "Pasta", "Cupcake"]]
+			["Burritos", "Lasagna", "Pasta", "Cupcake"]],
+		"Olympic Games": [["Skating","Fencing","Badminton","Boxing"],
+			["Softball","Archery","Soccer","Tennis"],
+			["Surfing","Shooting","Wrestling","Swimming"],
+			["Traithlon","Handball","Judo","Karate"]]
 	};
 	var game;
 	var view;
