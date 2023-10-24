@@ -16,11 +16,11 @@ function MysterySearchController(gameId, listId, solveId, newGameId, instruction
 			["Florida", "Hawaii", "Illinois", "Kansas"],
 			["Maryland", "Missouri", "Montana", "Arizona"],
 			["California", "Ohio", "Texas", "Virginia"]],
-		"Food": [["Sandwich", "Burger", "Pizza", "Coffee"],
+		"Food!": [["Sandwich", "Burger", "Pizza", "Coffee"],
 			["Icecream", "Baked Potato", "Springroll", "Hashbrowns"],
 			["FrenchFries", "Grilled Cheese", "Apple Pie", "Nachos"],
 			["Burritos", "Lasagna", "Pasta", "Cupcake"]],
-		"Olympic Games": [["Skating","Fencing","Badminton","Boxing"],
+		"Olympic Games!": [["Skating","Fencing","Badminton","Boxing"],
 			["Softball","Archery","Soccer","Tennis"],
 			["Surfing","Shooting","Wrestling","Swimming"],
 			["Traithlon","Handball","Judo","Karate"]]
