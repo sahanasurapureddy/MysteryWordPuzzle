@@ -7,13 +7,13 @@ The Mystery puzzle is hosted on a live server. You can play the game by visiting
 
 Creating a Mystery puzzle game was a fun project that took us on a wild ride of design and development challenges, successes, and lessons learned. Our project's goal was to provide users with an engaging and interactive experience, allowing them to explore various themes and solve word puzzles.
 
-##Design & Development:
+## Design & Development:
 The gameplay experience, where users may click on a link to visit a Mystery puzzle with a theme, was at the heart of the project. The mechanics of the game allowed users to engage with the problem by selecting letters connected with the words on the list. The main gameplay ran successfully, with participants receiving quick feedback as solved words were highlighted and struck out on the list. This feedback mechanism contributed greatly to a sense of progress and accomplishment. The difficulty lay in controlling overlapping letters on the board, which occasionally generated confusion and necessitated careful design and additional coding for touch events on mobile devices.
 
-###Features & Challenges 💾
+### Features & Challenges 💾
 * One unique aspect of the game was the "Mystery Words" feature, which allowed players to uncover words that were still unsolved. This feature was created to help players who got stuck so that the game would stay interesting. It worked well, providing assistance without overly simplifying the game. Finding a balance between helping players and maintaining the game's difficulty was difficult, but it was necessary to make sure that doing so improved the experience rather than made it less enjoyable. Implementing puzzle that can incorporate multiple themes and generate word puzzle based on related words to that particular theme was a challenging task for us. But we were able to implement it and have mouse animations succesfully work as well. We had thought of having a animation popup generate, when the user solves the whole puzzle but we were able to implement only a alert pop up on completing the challenge. The animation popup was hindering our functionality due to which we didn't implement on our code which we are hoping to  incorporate in our future enhancement on this puzzle board. 
 
-###Lessons Learnt:
+### Lessons Learnt:
 To summarize, developing the word search game with theme-changing capabilities was a challenging and rewarding journey. The ability to respond to user feedback, balance gameplay elements, and resolve technical issues was critical to the project's success. It emphasized the importance of user-centered design, the art of balancing challenge and assistance in game design, and the importance of optimizing for mobile devices in order to reach a wider audience. Finally, this project taught valuable lessons about iteration and the commitment to providing a fun and engaging experience for players.
 
 ### Buttons:
