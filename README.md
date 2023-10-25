@@ -16,7 +16,6 @@ The gameplay experience, where users may click on a link to visit a Mystery puzz
 ###Lessons Learnt:
 To summarize, developing the word search game with theme-changing capabilities was a challenging and rewarding journey. The ability to respond to user feedback, balance gameplay elements, and resolve technical issues was critical to the project's success. It emphasized the importance of user-centered design, the art of balancing challenge and assistance in game design, and the importance of optimizing for mobile devices in order to reach a wider audience. Finally, this project taught valuable lessons about iteration and the commitment to providing a fun and engaging experience for players.
 
-
 ### Buttons:
 * Try new theme: This will make to change the theme which generates a new word puzzle with different theme and its related words.
 * Mystery Words: Players can see the words they couldn't capture on the word search puzzle by clicking it. This button will solve the mystery puzzle.
