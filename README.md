@@ -49,7 +49,4 @@ JavaScript and Jquery: For enhancing interactivity, features to enhance the mous
 
 Credits for third-party assets
 
-Reference for our game was taken from the Github according to our game's necessity. GitID for Author of the reference game is XXXXXX. We borrowed this specific code as it matches with the requirements and functionality(generating puzzles, checking word validity and managing game logic etc) which we decided to include in our game.
-
-Reference Link:
-
+We have taken reference of https://www.w3schools.com/js/ and udemy java script course by Proper DOT Institute
