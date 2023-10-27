@@ -4,7 +4,7 @@
 
 ### Overview 📖
 Creating a Mystery puzzle game was a fun project that took us on a wild ride of design and development challenges, successes, and lessons learned. Our project's goal was to provide users with an engaging and interactive experience, allowing them to explore various themes and solve word puzzles.
-The Mystery puzzle is hosted on a live server. You can play the game by visiting the following URL: [Mystery Word Puzzle](https://sahanasurapureddy.github.io/MysteryWordPuzzle/)
+The Mystery puzzle is hosted on a live server. You can play the game here:[Mystery Word Puzzle](https://sahanasurapureddy.github.io/MysteryWordPuzzle/)
 
 ## Reflection on Design & Development:
 The design and development process of creating the Mystery Word Puzzle game was an exhilarating journey filled with challenges, successes, and invaluable lessons. It was a project that allowed our team to explore the boundaries of creativity while adhering to a systematic approach.
