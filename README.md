@@ -12,19 +12,19 @@ The Mystery puzzle is hosted on a live server. You can play the game here:[Myste
 
 The design and development process of creating the Mystery Word Puzzle game was an exhilarating journey filled with challenges, successes, and invaluable lessons. It was a project that allowed our team to explore the boundaries of creativity while adhering to a systematic approach.
 
-**Scrum as the Project Foundation:**\
+**Scrum as the Project Foundation:**
 
 The adoption of the Scrum project management framework was critical to our success. It brought order to our project's complexity and transformed our multidisciplinary team into an efficient and collaborative unit. Scrum encouraged us to divide our work into manageable sprints of one to two weeks. This approach allowed us to focus on the most pressing tasks while iterating continuously, which was critical in a project where user engagement was critical.
 
-**Review and Continuous Improvement:**\
+**Review and Continuous Improvement:**
 
 We held review meetings after each sprint. These meetings provided an opportunity to consider what went well and where improvements could be made. We didn't just look at project progress; we looked at the process as a whole, always looking for ways to improve efficiency and effectiveness. We refined our approach due to a culture of continuous improvement.
 
-**Improved Collaboration and Productivity:**\
+**Improved Collaboration and Productivity:**
 
 The implementation of Scrum resulted in a transformation of our team. It promoted increased cooperation and productivity, two critical success factors. We saw firsthand how Scrum's principles fostered an environment in which team members collaborated effectively, played to their strengths, and were motivated to excel. As a result, the project moved quickly and produced precise results.
 
-**Development and Testing:**\
+**Development and Testing:**
 
 * The Mystery Word Puzzle project introduced us to a world of creative possibilities in the technical realm. Our development efforts were focused on the gameplay experience. Users could access a Mystery puzzle with a specific theme by clicking on a link, and the game mechanics allowed them to select letters associated with the words on the list. This core gameplay feature was a significant technical achievement, as it provided users with immediate feedback as they solved words, which were highlighted and marked as completed on the list. This feedback mechanism's technical development significantly contributed to a sense of progress and achievement, increasing player engagement and satisfaction.
 
