@@ -23,7 +23,7 @@ h1, h2, #wordTheme, #solveButton, #newGameButton {
 h1, h2, .cell, #wordTheme, #wordlist {
 	text-transform: capitalize;
 	border:2px rgb(106, 90, 205);
-	/*background-color: rgb(208, 225, 230);*/
+	
 }
 
 h1, h2 {
@@ -107,24 +107,24 @@ h1, h2 {
 
 #listContainer {
     float: right;
-	margin-right: 0px;
+    margin-right: 0px;
     margin-left: auto
-	position:fixed;
+    position:fixed;
 }
 
 .listWord {
     display: block; 
-    text-align: center; /* Align text to the right */
-    padding: 2px; /* Add padding as needed to adjust the spacing */
-    background-color: #fff; /* Set the background color */
-    border: 1px solid black; /* Optional: Add a background color to the container for better visibility */
-	margin-right: 0px;
-    margin-left: auto
-	position:fixed;
+    text-align: center; 
+    padding: 2px; 
+    background-color: #fff; 
+    border: 1px solid black; 
+    margin-right: 0px;
+    margin-left: auto;
+    position:fixed;
 }
 
 #wordlist li {
-    margin-bottom: 2px; /* Add margin between list items for spacing */
+    margin-bottom: 2px; 
 }
 
 .listWord.found {
@@ -138,7 +138,6 @@ h1, h2 {
 	display: block;
 	outline: 0;
 	border-radius: 8px;
-	/*font-size: 18px;*/
 	font-weight: bold;
 	font-family: "Font2", serif;
 	font-size: 1.0vw;
