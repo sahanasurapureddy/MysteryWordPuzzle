@@ -3,7 +3,9 @@
 }
 
 body {
-	background-image: url('https://images.rawpixel.com/image_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8xMV9vaWxfcGFzdGVsX2NyYXlvbl90ZXh0dXJlX2lsbHVzdHJhdGlvbl9vZl9lbl80ZTU2ZDIyMS1iNzc3LTQyNzctYTQ0Mi1lOTJkMTkxZWYyZDlfMS5qcGc.jpg');
+	/*background-image: url('https://images.rawpixel.com/image_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8xMV9vaWxfcGFzdGVsX2NyYXlvbl90ZXh0dXJlX2lsbHVzdHJhdGlvbl9vZl9lbl80ZTU2ZDIyMS1iNzc3LTQyNzctYTQ0Mi1lOTJkMTkxZWYyZDlfMS5qcGc.jpg');
+	*/
+	background-image: url('/Users/sahanasurapureddy/Downloads/pastel-pink-background-yw0ub.webp');
 	height: 400px;
 	width: 100%;
 }
